@@ -1,4 +1,4 @@
-module github.com/yejun614/go-data/data
+module github.com/yejun614/go-data
 
 go 1.20
 
